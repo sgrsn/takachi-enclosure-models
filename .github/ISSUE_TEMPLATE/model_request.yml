@@ -1,0 +1,22 @@
+name: Model request / 型番の追加
+description: Ask for a model that is not in the list yet. / 一覧に無い型番を希望する。
+title: "[Request] "
+labels: ["model request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Only TAKACHI boxes with published 2D drawings and no official 3D data are in scope.
+        対象は、タカチが 2D 図面を公開していて、公式の 3D データが無い製品です。
+  - type: input
+    id: model
+    attributes:
+      label: Model number / 型番
+      placeholder: BCAP131808G
+    validations:
+      required: true
+  - type: textarea
+    id: use
+    attributes:
+      label: What you will use it for (optional) / 用途（任意）
+      description: This helps us decide the order. / 作る順番の参考にします。

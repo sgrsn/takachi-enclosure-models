@@ -1,0 +1,4 @@
+# STEP files are generated. Keep their bytes as published (the sha256 in manifest.json) and do not show diffs.
+*.step -text -diff linguist-generated
+*.png binary
+manifest.json linguist-generated
