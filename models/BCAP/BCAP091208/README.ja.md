@@ -18,4 +18,4 @@
 | カタログ | 90 | 120 | 85 |
 | 耳・蝶番・ラッチ・脚を含む全体 | 106.25 | 128.4 | 87 |
 
-取り込み方: [docs/onshape.ja.md](../../../docs/onshape.ja.md) · 注記: [NOTICE.ja.md](../../../NOTICE.ja.md) · ライセンス: [CC BY 4.0](../../../LICENSE)
+注記: [NOTICE.ja.md](../../../NOTICE.ja.md) · ライセンス: [CC BY 4.0](../../../LICENSE)

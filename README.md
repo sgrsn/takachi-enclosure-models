@@ -12,10 +12,10 @@ Each model is detailed (draft angles, fillets, gasket, latch, insert nuts) and w
 
 ## Usage
 
-1. Pick a model below and download the STEP file for your color.
-2. Import it as described in [docs/onshape.md](docs/onshape.md).
+Pick a model below and download the STEP file for your color.
 
-Each file is an assembly in the closed position (base, cover, gasket, latch, insert nuts), in mm, with +Z up.
+Each file is an assembly in the closed position (base, cover, gasket, latch, insert nuts), in mm.
+The origin is the center of the outer bottom face of the base; +X runs along the long side, +Y points to the hinge side, and +Z points up.
 Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); changes are in [CHANGELOG.md](CHANGELOG.md).
 
 ## Models

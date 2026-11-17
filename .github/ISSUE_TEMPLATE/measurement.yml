@@ -21,7 +21,7 @@ body:
     id: feature
     attributes:
       label: What you measured / 測った所
-      description: Describe the feature. If you can, give its position in the model's coordinates (see docs/onshape.md). / 測った所の説明。できればモデルの座標での位置も（docs/onshape.md 参照）。
+      description: Describe the feature. If you can, give its position in the model's coordinates (see README). / 測った所の説明。できればモデルの座標での位置も（README 参照）。
     validations:
       required: true
   - type: input

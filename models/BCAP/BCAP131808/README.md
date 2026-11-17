@@ -18,4 +18,4 @@ English | [日本語](README.ja.md)
 | Catalog | 135 | 185 | 85.5 |
 | Overall, including ears, hinge, latch and feet | 152.22 | 193.358 | 86.5 |
 
-Import guide: [docs/onshape.md](../../../docs/onshape.md) · Notice: [NOTICE.md](../../../NOTICE.md) · License: [CC BY 4.0](../../../LICENSE)
+Notice: [NOTICE.md](../../../NOTICE.md) · License: [CC BY 4.0](../../../LICENSE)
