@@ -2,11 +2,11 @@
   "schema": 1,
   "models": {
     "BCAP091207": {
-      "revision": "r1",
+      "revision": "r2",
       "series": "BCAP",
       "source": {
-        "commit": "565275069bc62da79444c885efe46afb4ed4e83e",
-        "verified": "2026-11-16",
+        "commit": "0eca1fe0738623a670e552260179b940c3ad3acd",
+        "verified": "2026-11-17",
         "drawing_date": "2025-12-08"
       },
       "catalog_dimensions": {
@@ -88,7 +88,7 @@
             }
           ],
           "step": "models/BCAP/BCAP091207/BCAP091207G.step",
-          "sha256": "96cfdf38e510364e4b00e08c89b4c36e3c42b866bf2762de241d932dab8a725a"
+          "sha256": "c176e565a7e463ffa7772b9d3f458385da113d0feb0d9a4c3e33f1081c063fc8"
         },
         {
           "model": "BCAP091207T",
@@ -129,7 +129,7 @@
             }
           ],
           "step": "models/BCAP/BCAP091207/BCAP091207T.step",
-          "sha256": "304cc83af2dae6253357c8b4106df0e47c3b89ba3080c3b3a93dbadf5fbf118a"
+          "sha256": "1ee8f3d5d7e7f7fff0f01378420b6fb1ef21bab4133cb0ef6ac38e64021b5a88"
         }
       ]
     }
