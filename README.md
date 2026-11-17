@@ -32,6 +32,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | Model / 型番 | Catalog W × D × H (mm) / カタログ外形寸法 | Color / 色 | STEP |
 |---|---|---|---|
 | [BCAP091207](models/BCAP/BCAP091207/) | 90 × 120 × 70 | White gray / ホワイトグレー<br>Clear cover / 透明カバー | [BCAP091207G](models/BCAP/BCAP091207/BCAP091207G.step)<br>[BCAP091207T](models/BCAP/BCAP091207/BCAP091207T.step) |
+| [BCAP131808](models/BCAP/BCAP131808/) | 135 × 185 × 85.5 | White gray / ホワイトグレー<br>Clear cover / 透明カバー | [BCAP131808G](models/BCAP/BCAP131808/BCAP131808G.step)<br>[BCAP131808T](models/BCAP/BCAP131808/BCAP131808T.step) |
 <!-- models:end -->
 
 ## Feedback / ご意見
