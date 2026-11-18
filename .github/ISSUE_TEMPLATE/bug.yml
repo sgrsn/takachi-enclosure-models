@@ -1,40 +1,21 @@
-name: Problem with a model / 不具合
-description: A STEP file does not import, or a dimension, part name or color is wrong. / STEP が取り込めない、寸法・部品名・色が違う。
-title: "[Bug] "
+name: Problem with a model
+description: A STEP file does not import, or a dimension, part name or color is wrong.
 labels: ["bug"]
 body:
   - type: input
     id: model
     attributes:
-      label: Model number / 型番
+      label: Model number
       placeholder: BCAP091207G
     validations:
       required: true
-  - type: dropdown
-    id: kind
+  - type: textarea
+    id: details
     attributes:
-      label: Kind of problem / 不具合の種類
-      options:
-        - The file does not import / 取り込めない
-        - A dimension is wrong / 寸法が違う
-        - Part name or color is wrong / 部品名・色が違う
-        - Other / その他
+      label: What happened
     validations:
       required: true
   - type: input
     id: software
     attributes:
-      label: CAD software and version / 使った CAD とバージョン
-      placeholder: Onshape, Fusion, FreeCAD 1.0, …
-  - type: textarea
-    id: details
-    attributes:
-      label: What happened / 起きたこと
-      description: Error messages, what you expected and what you got. For dimensions, say where and how you measured. / エラーメッセージ、期待した結果と実際の結果。寸法なら、どこをどう測ったか。
-    validations:
-      required: true
-  - type: input
-    id: revision
-    attributes:
-      label: Revision in manifest.json, if known / manifest.json の改訂（分かれば）
-      placeholder: r1
+      label: CAD software

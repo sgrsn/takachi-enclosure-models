@@ -8,7 +8,7 @@ Please use the issue form that fits:
 
 - **Measurement report**: you measured a real box and a dimension differs from the model, or you measured something
   the drawings do not show (such as how far the cover opens).
-- **Bug**: a STEP file does not import, a dimension looks wrong, or a part name or color is wrong.
+- **Problem with a model**: a STEP file does not import, a dimension looks wrong, or a part name or color is wrong.
 - **Model request**: you would like a model that is not in the list yet. Only boxes for which TAKACHI publishes
   2D drawings but no 3D data are in scope.
 

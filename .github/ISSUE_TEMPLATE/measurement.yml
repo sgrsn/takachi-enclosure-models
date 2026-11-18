@@ -1,59 +1,30 @@
-name: Measurement report / 実測値の報告
-description: Report a dimension you measured on a real box. / 実物で測った寸法を報告する。
-title: "[Measurement] "
+name: Measurement report
+description: Report a dimension you measured on a real box.
 labels: ["measurement"]
 body:
   - type: markdown
     attributes:
-      value: |
-        Thank you for measuring. Reported values are added to the model's specification, and the model is checked against the drawings again before it is published again.
-        測っていただきありがとうございます。報告された値はモデルの仕様に反映し、図面との照合をやり直してから公開し直します。
-
-        Please do not attach TAKACHI drawings or catalog pages. / タカチの図面やカタログのページは添付しないでください。
+      value: Please do not attach TAKACHI drawings or catalog pages.
   - type: input
     id: model
     attributes:
-      label: Model number / 型番
+      label: Model number
       placeholder: BCAP091207G
     validations:
       required: true
   - type: textarea
     id: feature
     attributes:
-      label: What you measured / 測った所
-      description: Describe the feature. If you can, give its position in the model's coordinates (see README). / 測った所の説明。できればモデルの座標での位置も（README 参照）。
+      label: What you measured
     validations:
       required: true
   - type: input
     id: measured
     attributes:
-      label: Measured value (mm or degrees) / 実測値（mm または度）
-      placeholder: "12.3 mm"
+      label: Measured value (mm or degrees)
     validations:
       required: true
-  - type: input
-    id: modeled
-    attributes:
-      label: Value in the model, if you checked / モデルの値（確かめた場合）
-  - type: dropdown
-    id: tool
-    attributes:
-      label: Measuring tool / 測った道具
-      options:
-        - Calipers / ノギス
-        - Micrometer / マイクロメーター
-        - Ruler or tape measure / 定規・メジャー
-        - Protractor / 分度器
-        - Other / その他
-    validations:
-      required: true
-  - type: input
-    id: samples
-    attributes:
-      label: How many boxes or repeats / 測った個数・回数
-      placeholder: "2 boxes, 3 times each / 2 個を 3 回ずつ"
   - type: textarea
-    id: notes
+    id: method
     attributes:
-      label: Photos and notes / 写真・補足
-      description: Photos of the measurement help us check the value. / 測っているところの写真があると確認しやすくなります。
+      label: How you measured (tool, photos)
