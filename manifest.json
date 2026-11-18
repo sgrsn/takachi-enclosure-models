@@ -265,6 +265,148 @@
         }
       ]
     },
+    "BCAP131508": {
+      "revision": "r1",
+      "series": "BCAP",
+      "source": {
+        "commit": "3bc992b952435153e26a4f75701abd3db181013d",
+        "verified": "2026-11-18",
+        "drawing_date": "2025-12-02"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 135.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 155.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 85.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -81.7,
+          -75.237,
+          -1.0
+        ],
+        "max": [
+          81.7,
+          76.983,
+          85.0
+        ]
+      },
+      "hinge": {
+        "point_mm": [
+          0.0,
+          72.484,
+          65.0
+        ],
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_open_deg": 236.0
+      },
+      "variants": [
+        {
+          "model": "BCAP131508G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCAP131508G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508G_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508G_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508G_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508G_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCAP/BCAP131508/BCAP131508G.step",
+          "sha256": "3ac9a24b66fd2678cba95d8626fbc15949996da053154fffa62e24e101a7628b"
+        },
+        {
+          "model": "BCAP131508T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "BCAP131508T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "BCAP131508T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508T_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508T_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508T_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAP131508T_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCAP/BCAP131508/BCAP131508T.step",
+          "sha256": "2df7c8f76f9a2386e1ef4f1fdb366f3afb923407068ab489db81521363e15a04"
+        }
+      ]
+    },
     "BCAP131808": {
       "revision": "r1",
       "series": "BCAP",
