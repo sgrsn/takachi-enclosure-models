@@ -1,6 +1,8 @@
-# BCAP212110
+## BCAP212110G
 
 ![BCAP212110G (White gray)](preview_BCAP212110G.png)
+
+## BCAP212110T
 
 ![BCAP212110T (Clear cover)](preview_BCAP212110T.png)
 

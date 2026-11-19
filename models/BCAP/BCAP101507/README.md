@@ -1,6 +1,8 @@
-# BCAP101507
+## BCAP101507G
 
 ![BCAP101507G (White gray)](preview_BCAP101507G.png)
+
+## BCAP101507T
 
 ![BCAP101507T (Clear cover)](preview_BCAP101507T.png)
 

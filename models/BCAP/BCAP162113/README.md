@@ -1,6 +1,8 @@
-# BCAP162113
+## BCAP162113G
 
 ![BCAP162113G (White gray)](preview_BCAP162113G.png)
+
+## BCAP162113T
 
 ![BCAP162113T (Clear cover)](preview_BCAP162113T.png)
 

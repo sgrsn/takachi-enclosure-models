@@ -1,6 +1,8 @@
-# BCAP172711
+## BCAP172711G
 
 ![BCAP172711G (White gray)](preview_BCAP172711G.png)
+
+## BCAP172711T
 
 ![BCAP172711T (Clear cover)](preview_BCAP172711T.png)
 

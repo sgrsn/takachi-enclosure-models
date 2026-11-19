@@ -1,6 +1,8 @@
-# BCAP131508
+## BCAP131508G
 
 ![BCAP131508G (White gray)](preview_BCAP131508G.png)
+
+## BCAP131508T
 
 ![BCAP131508T (Clear cover)](preview_BCAP131508T.png)
 

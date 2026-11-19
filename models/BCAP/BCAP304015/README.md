@@ -1,6 +1,8 @@
-# BCAP304015
+## BCAP304015G
 
 ![BCAP304015G (White gray)](preview_BCAP304015G.png)
+
+## BCAP304015T
 
 ![BCAP304015T (Clear cover)](preview_BCAP304015T.png)
 

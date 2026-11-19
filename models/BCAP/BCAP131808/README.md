@@ -1,6 +1,8 @@
-# BCAP131808
+## BCAP131808G
 
 ![BCAP131808G (White gray)](preview_BCAP131808G.png)
+
+## BCAP131808T
 
 ![BCAP131808T (Clear cover)](preview_BCAP131808T.png)
 
