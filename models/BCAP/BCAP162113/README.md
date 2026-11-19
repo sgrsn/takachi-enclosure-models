@@ -1,8 +1,8 @@
 # BCAP162113
 
-English | [日本語](README.ja.md)
+![BCAP162113G (White gray)](preview_BCAP162113G.png)
 
-![BCAP162113 preview](preview.png)
+![BCAP162113T (Clear cover)](preview_BCAP162113T.png)
 
 ## STEP files
 

@@ -1,8 +1,8 @@
 # BCAP101507
 
-English | [日本語](README.ja.md)
+![BCAP101507G (White gray)](preview_BCAP101507G.png)
 
-![BCAP101507 preview](preview.png)
+![BCAP101507T (Clear cover)](preview_BCAP101507T.png)
 
 ## STEP files
 

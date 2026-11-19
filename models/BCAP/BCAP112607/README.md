@@ -1,8 +1,8 @@
 # BCAP112607
 
-English | [日本語](README.ja.md)
+![BCAP112607G (White gray)](preview_BCAP112607G.png)
 
-![BCAP112607 preview](preview.png)
+![BCAP112607T (Clear cover)](preview_BCAP112607T.png)
 
 ## STEP files
 

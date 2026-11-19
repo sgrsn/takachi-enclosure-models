@@ -1,8 +1,8 @@
 # BCAP151509
 
-English | [日本語](README.ja.md)
+![BCAP151509G (White gray)](preview_BCAP151509G.png)
 
-![BCAP151509 preview](preview.png)
+![BCAP151509T (Clear cover)](preview_BCAP151509T.png)
 
 ## STEP files
 

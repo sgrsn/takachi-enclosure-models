@@ -1,8 +1,8 @@
 # BCAP131808
 
-English | [日本語](README.ja.md)
+![BCAP131808G (White gray)](preview_BCAP131808G.png)
 
-![BCAP131808 preview](preview.png)
+![BCAP131808T (Clear cover)](preview_BCAP131808T.png)
 
 ## STEP files
 

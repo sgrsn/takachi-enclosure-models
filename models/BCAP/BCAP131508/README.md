@@ -1,8 +1,8 @@
 # BCAP131508
 
-English | [日本語](README.ja.md)
+![BCAP131508G (White gray)](preview_BCAP131508G.png)
 
-![BCAP131508 preview](preview.png)
+![BCAP131508T (Clear cover)](preview_BCAP131508T.png)
 
 ## STEP files
 

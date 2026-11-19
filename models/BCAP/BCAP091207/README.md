@@ -1,8 +1,8 @@
 # BCAP091207
 
-English | [日本語](README.ja.md)
+![BCAP091207G (White gray)](preview_BCAP091207G.png)
 
-![BCAP091207 preview](preview.png)
+![BCAP091207T (Clear cover)](preview_BCAP091207T.png)
 
 ## STEP files
 
