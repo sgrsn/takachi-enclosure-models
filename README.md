@@ -30,6 +30,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCAP131508](models/BCAP/BCAP131508/) | 135 × 155 × 85 | White gray<br>Clear cover | [BCAP131508G](models/BCAP/BCAP131508/BCAP131508G.step)<br>[BCAP131508T](models/BCAP/BCAP131508/BCAP131508T.step) |
 | [BCAP131808](models/BCAP/BCAP131808/) | 135 × 185 × 85.5 | White gray<br>Clear cover | [BCAP131808G](models/BCAP/BCAP131808/BCAP131808G.step)<br>[BCAP131808T](models/BCAP/BCAP131808/BCAP131808T.step) |
 | [BCAP131810](models/BCAP/BCAP131810/) | 135 × 185 × 100.5 | White gray<br>Clear cover | [BCAP131810G](models/BCAP/BCAP131810/BCAP131810G.step)<br>[BCAP131810T](models/BCAP/BCAP131810/BCAP131810T.step) |
+| [BCAP151509](models/BCAP/BCAP151509/) | 150 × 150 × 90 | White gray<br>Clear cover | [BCAP151509G](models/BCAP/BCAP151509/BCAP151509G.step)<br>[BCAP151509T](models/BCAP/BCAP151509/BCAP151509T.step) |
 <!-- models:end -->
 
 ## Feedback
