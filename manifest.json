@@ -3653,6 +3653,102 @@
         }
       ]
     },
+    "BCPC112110": {
+      "revision": "r1",
+      "series": "BCPC",
+      "source": {
+        "commit": "2a8cf915b328e36e8d8dcde0c509de27d731eb24",
+        "verified": "2026-11-20",
+        "drawing_date": "2025-12-02"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 110.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 210.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 100.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -109.2,
+          -62.75,
+          -2.0
+        ],
+        "max": [
+          109.2,
+          63.5,
+          100.0
+        ]
+      },
+      "hinge": {
+        "point_mm": [
+          0.0,
+          59.5,
+          80.0
+        ],
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_open_deg": 238.02
+      },
+      "variants": [
+        {
+          "model": "BCPC112110S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCPC112110S_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC112110S_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC112110S_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC112110S_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC112110S_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC112110S_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC112110S_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCPC/BCPC112110/BCPC112110S.step",
+          "sha256": "e7c25ac10a0f469f4972bb9c41eb07b7b99fc720fdfff93cc1edd14756d553a5"
+        }
+      ]
+    },
     "BCPC112607": {
       "revision": "r1",
       "series": "BCPC",
@@ -4729,6 +4825,132 @@
         }
       ]
     },
+    "BCPC304012": {
+      "revision": "r1",
+      "series": "BCPC",
+      "source": {
+        "commit": "2a8cf915b328e36e8d8dcde0c509de27d731eb24",
+        "verified": "2026-11-20",
+        "drawing_date": "2025-12-02"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 300.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 400.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 120.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -204.2,
+          -162.42,
+          -2.0
+        ],
+        "max": [
+          204.2,
+          163.0,
+          120.0
+        ]
+      },
+      "hinge": {
+        "point_mm": [
+          0.0,
+          157.0,
+          90.0
+        ],
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_open_deg": 235.72
+      },
+      "variants": [
+        {
+          "model": "BCPC304012S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCPC304012S_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_InsertNutM5_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_InsertNutM5_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_InsertNutM5_3",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_InsertNutM5_4",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_InsertNutM5_5",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_InsertNutM5_6",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_InsertNutM5_7",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304012S_InsertNutM5_8",
+              "color": "#C8A040",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCPC/BCPC304012/BCPC304012S.step",
+          "sha256": "43200eae147b2f9c640f838c6f0ad817134c80421140c48afed19ea91c6082f6"
+        }
+      ]
+    },
     "BCPC304015": {
       "revision": "r1",
       "series": "BCPC",
@@ -4852,6 +5074,132 @@
           ],
           "step": "models/BCPC/BCPC304015/BCPC304015S.step",
           "sha256": "b97ec65594c0f4a919640fa086ed4de9f87752e8e23216146f734c13c7577896"
+        }
+      ]
+    },
+    "BCPC304018": {
+      "revision": "r1",
+      "series": "BCPC",
+      "source": {
+        "commit": "2a8cf915b328e36e8d8dcde0c509de27d731eb24",
+        "verified": "2026-11-20",
+        "drawing_date": "2025-12-02"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 300.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 400.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 181.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -204.2,
+          -162.42,
+          -2.0
+        ],
+        "max": [
+          204.2,
+          163.0,
+          181.0
+        ]
+      },
+      "hinge": {
+        "point_mm": [
+          0.0,
+          157.0,
+          151.0
+        ],
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_open_deg": 235.7
+      },
+      "variants": [
+        {
+          "model": "BCPC304018S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCPC304018S_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_InsertNutM5_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_InsertNutM5_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_InsertNutM5_3",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_InsertNutM5_4",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_InsertNutM5_5",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_InsertNutM5_6",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_InsertNutM5_7",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC304018S_InsertNutM5_8",
+              "color": "#C8A040",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCPC/BCPC304018/BCPC304018S.step",
+          "sha256": "198628b56d5e80b234a9e0e25c58f3d919ab501c53376c710b36193dd8a683ac"
         }
       ]
     },

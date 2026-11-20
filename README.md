@@ -49,6 +49,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCPC101507](models/BCPC/BCPC101507/) | 100 × 150 × 70 | Light gray | [BCPC101507S](models/BCPC/BCPC101507/BCPC101507S.step) |
 | [BCPC101508](models/BCPC/BCPC101508/) | 100 × 150 × 85 | Light gray | [BCPC101508S](models/BCPC/BCPC101508/BCPC101508S.step) |
 | [BCPC112107](models/BCPC/BCPC112107/) | 110 × 210 × 75 | Light gray | [BCPC112107S](models/BCPC/BCPC112107/BCPC112107S.step) |
+| [BCPC112110](models/BCPC/BCPC112110/) | 110 × 210 × 100 | Light gray | [BCPC112110S](models/BCPC/BCPC112110/BCPC112110S.step) |
 | [BCPC112607](models/BCPC/BCPC112607/) | 110 × 260 × 75 | Light gray | [BCPC112607S](models/BCPC/BCPC112607/BCPC112607S.step) |
 | [BCPC112610](models/BCPC/BCPC112610/) | 110 × 260 × 100.5 | Light gray | [BCPC112610S](models/BCPC/BCPC112610/BCPC112610S.step) |
 | [BCPC131508](models/BCPC/BCPC131508/) | 135 × 155 × 85 | Light gray | [BCPC131508S](models/BCPC/BCPC131508/BCPC131508S.step) |
@@ -60,7 +61,9 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCPC172711](models/BCPC/BCPC172711/) | 170 × 270 × 110.5 | Light gray | [BCPC172711S](models/BCPC/BCPC172711/BCPC172711S.step) |
 | [BCPC212110](models/BCPC/BCPC212110/) | 210 × 210 × 100 | Light gray | [BCPC212110S](models/BCPC/BCPC212110/BCPC212110S.step) |
 | [BCPC212113](models/BCPC/BCPC212113/) | 210 × 210 × 130 | Light gray | [BCPC212113S](models/BCPC/BCPC212113/BCPC212113S.step) |
+| [BCPC304012](models/BCPC/BCPC304012/) | 300 × 400 × 120 | Light gray | [BCPC304012S](models/BCPC/BCPC304012/BCPC304012S.step) |
 | [BCPC304015](models/BCPC/BCPC304015/) | 300 × 400 × 150 | Light gray | [BCPC304015S](models/BCPC/BCPC304015/BCPC304015S.step) |
+| [BCPC304018](models/BCPC/BCPC304018/) | 300 × 400 × 181 | Light gray | [BCPC304018S](models/BCPC/BCPC304018/BCPC304018S.step) |
 | [BCPK091207](models/BCPK/BCPK091207/) | 90 × 120 × 70 | Light gray<br>Clear cover | [BCPK091207S](models/BCPK/BCPK091207/BCPK091207S.step)<br>[BCPK091207T](models/BCPK/BCPK091207/BCPK091207T.step) |
 <!-- models:end -->
 
