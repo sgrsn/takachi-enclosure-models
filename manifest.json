@@ -3183,6 +3183,542 @@
         }
       ]
     },
+    "BCAR131808": {
+      "revision": "r1",
+      "series": "BCAR",
+      "source": {
+        "commit": "6341f8a6aa276cd3470a714f398d9c6f3f636c76",
+        "verified": "2026-11-20",
+        "drawing_date": "2025-12-02"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 135.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 185.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 85.5,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -98.7,
+          -75.237,
+          -1.0
+        ],
+        "max": [
+          96.679,
+          76.983,
+          102.046
+        ]
+      },
+      "hinge": {
+        "point_mm": [
+          0.0,
+          72.484,
+          65.5
+        ],
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_open_deg": 236.02
+      },
+      "variants": [
+        {
+          "model": "BCAR131808G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCAR131808G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808G_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808G_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808G_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808G_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808G_Roof",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCAR/BCAR131808/BCAR131808G.step",
+          "sha256": "e14fcfd38e150e10b8b06f6bb5fed09133bde742c39f0d9b40589a3f8f981fb4"
+        },
+        {
+          "model": "BCAR131808T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "BCAR131808T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "BCAR131808T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808T_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808T_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808T_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808T_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR131808T_Roof",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCAR/BCAR131808/BCAR131808T.step",
+          "sha256": "e7cda3832c70cd56d1fdacd862e90bea0dae2c5540539988d6d5a80e876d791a"
+        }
+      ]
+    },
+    "BCAR212110": {
+      "revision": "r1",
+      "series": "BCAR",
+      "source": {
+        "commit": "6341f8a6aa276cd3470a714f398d9c6f3f636c76",
+        "verified": "2026-11-20",
+        "drawing_date": "2025-12-02"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 210.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 210.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 100.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -111.2,
+          -113.0,
+          -2.0
+        ],
+        "max": [
+          109.2,
+          114.5,
+          111.55
+        ]
+      },
+      "hinge": {
+        "point_mm": [
+          0.0,
+          110.0,
+          75.0
+        ],
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_open_deg": 234.9
+      },
+      "variants": [
+        {
+          "model": "BCAR212110G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCAR212110G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110G_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110G_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110G_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110G_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110G_InsertNutM4_3",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110G_InsertNutM4_4",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110G_Roof",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCAR/BCAR212110/BCAR212110G.step",
+          "sha256": "c9db72aaa4523b650c8f49609a9822624f6ad751dc5fe11e3af86561833c8b04"
+        },
+        {
+          "model": "BCAR212110T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "BCAR212110T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "BCAR212110T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110T_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110T_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110T_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110T_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110T_InsertNutM4_3",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110T_InsertNutM4_4",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR212110T_Roof",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCAR/BCAR212110/BCAR212110T.step",
+          "sha256": "fece039b3a96c777b44a286aa22f546f50f075c763a6437d08ab4ca1c4f0e633"
+        }
+      ]
+    },
+    "BCAR304015": {
+      "revision": "r1",
+      "series": "BCAR",
+      "source": {
+        "commit": "6341f8a6aa276cd3470a714f398d9c6f3f636c76",
+        "verified": "2026-11-20",
+        "drawing_date": "2026-04-08"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 300.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 400.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 150.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -206.2,
+          -162.5,
+          -2.0
+        ],
+        "max": [
+          204.2,
+          163.0,
+          160.4
+        ]
+      },
+      "hinge": {
+        "point_mm": [
+          0.0,
+          157.0,
+          120.0
+        ],
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_open_deg": 235.7
+      },
+      "variants": [
+        {
+          "model": "BCAR304015G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCAR304015G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_InsertNutM5_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_InsertNutM5_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_InsertNutM5_3",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_InsertNutM5_4",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_InsertNutM5_5",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_InsertNutM5_6",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_InsertNutM5_7",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_InsertNutM5_8",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015G_Roof",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCAR/BCAR304015/BCAR304015G.step",
+          "sha256": "a035901896f7e96a81e5b098741411fa59a01c26db4c78783d0f1a0d8196bdbb"
+        },
+        {
+          "model": "BCAR304015T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "BCAR304015T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "BCAR304015T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_InsertNutM5_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_InsertNutM5_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_InsertNutM5_3",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_InsertNutM5_4",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_InsertNutM5_5",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_InsertNutM5_6",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_InsertNutM5_7",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_InsertNutM5_8",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAR304015T_Roof",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCAR/BCAR304015/BCAR304015T.step",
+          "sha256": "9e510eacd3bb60c635a2546871d0b460e1e84679b6fa426e08c1b646ab4658e7"
+        }
+      ]
+    },
     "BCPC091207": {
       "revision": "r1",
       "series": "BCPC",
