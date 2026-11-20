@@ -13,6 +13,6 @@
 | mm | W (Y) | D (X) | H (Z) |
 |---|---|---|---|
 | Catalog | 135 | 155 | 85 |
-| Overall, including ears, hinge, latch and feet | 152.22 | 163.4 | 86 |
+| Overall (all parts) | 152.22 | 163.4 | 86 |
 
 Notice: [NOTICE.md](../../../NOTICE.md) · License: [CC BY 4.0](../../../LICENSE)

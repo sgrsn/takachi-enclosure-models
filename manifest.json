@@ -5,8 +5,8 @@
       "revision": "r2",
       "series": "BCAP",
       "source": {
-        "commit": "0eca1fe0738623a670e552260179b940c3ad3acd",
-        "verified": "2026-11-17",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
+        "verified": "2026-11-19",
         "drawing_date": "2025-12-08"
       },
       "catalog_dimensions": {
@@ -46,7 +46,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.0
+        "max_open_deg": 236.15
       },
       "variants": [
         {
@@ -137,8 +137,8 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "a5c09edb6e130cd52d653a3b87c0e03a1f2c3f89",
-        "verified": "2026-11-17",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
+        "verified": "2026-11-19",
         "drawing_date": "2025-12-08"
       },
       "catalog_dimensions": {
@@ -178,7 +178,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.0
+        "max_open_deg": 236.15
       },
       "variants": [
         {
@@ -269,8 +269,8 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "9c513589fb9ffcc1c147b3bac56e3bac306a658c",
-        "verified": "2026-11-18",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
+        "verified": "2026-11-19",
         "drawing_date": "2025-12-02"
       },
       "catalog_dimensions": {
@@ -310,7 +310,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.1
+        "max_open_deg": 236.13
       },
       "variants": [
         {
@@ -411,7 +411,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "054e8a9a51a2d22a0045ea30b0fcd921c19124af",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-19",
         "drawing_date": "2025-12-02"
       },
@@ -452,7 +452,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.1
+        "max_open_deg": 236.13
       },
       "variants": [
         {
@@ -553,7 +553,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "d495bb2a23dd8e5fef8a1a4cd290d4dd675d14e6-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -594,7 +594,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 238.03
+        "max_open_deg": 238.02
       },
       "variants": [
         {
@@ -695,7 +695,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "ca661166160beb3579ef315081376fa06f215085-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -837,7 +837,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "2e02638d69381ed67af724abd1225d24cbd09941",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -878,7 +878,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 238.03
+        "max_open_deg": 238.02
       },
       "variants": [
         {
@@ -979,7 +979,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "7db5ed26386ad6836d1d85d1134c6f9376efb29b-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -1020,7 +1020,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 238.03
+        "max_open_deg": 238.02
       },
       "variants": [
         {
@@ -1121,8 +1121,8 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "3bc992b952435153e26a4f75701abd3db181013d",
-        "verified": "2026-11-18",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
+        "verified": "2026-11-19",
         "drawing_date": "2025-12-02"
       },
       "catalog_dimensions": {
@@ -1162,7 +1162,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.0
+        "max_open_deg": 236.02
       },
       "variants": [
         {
@@ -1263,8 +1263,8 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "0eca1fe0738623a670e552260179b940c3ad3acd",
-        "verified": "2026-11-17",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
+        "verified": "2026-11-19",
         "drawing_date": "2025-12-02"
       },
       "catalog_dimensions": {
@@ -1304,7 +1304,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.0
+        "max_open_deg": 236.02
       },
       "variants": [
         {
@@ -1689,7 +1689,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "2e02638d69381ed67af724abd1225d24cbd09941",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-19",
         "drawing_date": "2026-04-08"
       },
@@ -1730,7 +1730,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 244.63
+        "max_open_deg": 244.62
       },
       "variants": [
         {
@@ -2277,7 +2277,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "a7945e554182f64528b50717c4697cece2b387a1-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -2641,7 +2641,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "660e49c37931757f79022935fc058c4fd65d411c",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -2682,7 +2682,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 235.77
+        "max_open_deg": 235.7
       },
       "variants": [
         {
@@ -2843,7 +2843,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "dcaec686fbb09d97795b182a35a4dcaa60feda95-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -3187,7 +3187,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-08"
       },
@@ -3228,7 +3228,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.0
+        "max_open_deg": 236.15
       },
       "variants": [
         {
@@ -3278,7 +3278,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-08"
       },
@@ -3319,7 +3319,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.0
+        "max_open_deg": 236.15
       },
       "variants": [
         {
@@ -3369,7 +3369,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -3410,7 +3410,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.1
+        "max_open_deg": 236.13
       },
       "variants": [
         {
@@ -3465,7 +3465,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -3506,7 +3506,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.1
+        "max_open_deg": 236.13
       },
       "variants": [
         {
@@ -3561,7 +3561,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "09435bd6185d70b370c39bb192e751dd3aeb5c60-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -3602,7 +3602,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 238.03
+        "max_open_deg": 238.02
       },
       "variants": [
         {
@@ -3657,7 +3657,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -3698,7 +3698,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 238.03
+        "max_open_deg": 238.02
       },
       "variants": [
         {
@@ -3753,7 +3753,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "09435bd6185d70b370c39bb192e751dd3aeb5c60-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -3794,7 +3794,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 238.03
+        "max_open_deg": 238.02
       },
       "variants": [
         {
@@ -3849,7 +3849,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -3890,7 +3890,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.0
+        "max_open_deg": 236.02
       },
       "variants": [
         {
@@ -3945,7 +3945,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -3986,7 +3986,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 236.0
+        "max_open_deg": 236.02
       },
       "variants": [
         {
@@ -4041,7 +4041,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -4137,7 +4137,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2026-04-08"
       },
@@ -4233,7 +4233,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2026-04-08"
       },
@@ -4274,7 +4274,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 244.63
+        "max_open_deg": 244.62
       },
       "variants": [
         {
@@ -4329,7 +4329,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -4425,7 +4425,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -4521,7 +4521,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -4627,7 +4627,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "09435bd6185d70b370c39bb192e751dd3aeb5c60-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -4733,7 +4733,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "94f291086862d295f7c08cb21e77909bcf1df3f3-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -4774,7 +4774,7 @@
           0.0,
           0.0
         ],
-        "max_open_deg": 235.77
+        "max_open_deg": 235.7
       },
       "variants": [
         {
@@ -4859,7 +4859,7 @@
       "revision": "r1",
       "series": "BCPK",
       "source": {
-        "commit": "f54907943914b24b2c5520922ac2e4b627a0ce77-dirty",
+        "commit": "a5ac7534870a11b78fd5f9b3ca4e41d81c2d26b2",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },

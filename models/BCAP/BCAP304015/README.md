@@ -18,6 +18,6 @@
 | mm | W (Y) | D (X) | H (Z) |
 |---|---|---|---|
 | Catalog | 300 | 400 | 150 |
-| Overall, including ears, hinge, latch and feet | 325.42 | 408.4 | 152 |
+| Overall (all parts) | 325.42 | 408.4 | 152 |
 
 Notice: [NOTICE.md](../../../NOTICE.md) · License: [CC BY 4.0](../../../LICENSE)
