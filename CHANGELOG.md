@@ -50,6 +50,7 @@ Each line is a model and its revision in manifest.json. / 各行は型番と man
 - BCPC172711 r1: added
 - BCPC212110 r1: added
 - BCPC212113 r1: added
+- BCPC303015 r1: added
 - BCPC304012 r1: added
 - BCPC304015 r1: added
 - BCPC304018 r1: added
