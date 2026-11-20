@@ -4,6 +4,7 @@ Each line is a model and its revision in manifest.json. / 各行は型番と man
 
 ## 2026-11-21
 
+- BCAP192810 r1: added
 - BCAR112107 r1: added
 - BCAR112110 r1: added
 - BCAR112607 r1: added
