@@ -44,7 +44,9 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCPC091208](models/BCPC/BCPC091208/) | 90 × 120 × 85 | Light gray | [BCPC091208S](models/BCPC/BCPC091208/BCPC091208S.step) |
 | [BCPC101507](models/BCPC/BCPC101507/) | 100 × 150 × 70 | Light gray | [BCPC101507S](models/BCPC/BCPC101507/BCPC101507S.step) |
 | [BCPC101508](models/BCPC/BCPC101508/) | 100 × 150 × 85 | Light gray | [BCPC101508S](models/BCPC/BCPC101508/BCPC101508S.step) |
+| [BCPC112107](models/BCPC/BCPC112107/) | 110 × 210 × 75 | Light gray | [BCPC112107S](models/BCPC/BCPC112107/BCPC112107S.step) |
 | [BCPC112607](models/BCPC/BCPC112607/) | 110 × 260 × 75 | Light gray | [BCPC112607S](models/BCPC/BCPC112607/BCPC112607S.step) |
+| [BCPC112610](models/BCPC/BCPC112610/) | 110 × 260 × 100.5 | Light gray | [BCPC112610S](models/BCPC/BCPC112610/BCPC112610S.step) |
 | [BCPC131508](models/BCPC/BCPC131508/) | 135 × 155 × 85 | Light gray | [BCPC131508S](models/BCPC/BCPC131508/BCPC131508S.step) |
 | [BCPC131808](models/BCPC/BCPC131808/) | 135 × 185 × 85.5 | Light gray | [BCPC131808S](models/BCPC/BCPC131808/BCPC131808S.step) |
 | [BCPC131810](models/BCPC/BCPC131810/) | 135 × 185 × 100.5 | Light gray | [BCPC131810S](models/BCPC/BCPC131810/BCPC131810S.step) |
@@ -53,6 +55,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCPC162113](models/BCPC/BCPC162113/) | 160 × 210 × 130 | Light gray | [BCPC162113S](models/BCPC/BCPC162113/BCPC162113S.step) |
 | [BCPC172711](models/BCPC/BCPC172711/) | 170 × 270 × 110.5 | Light gray | [BCPC172711S](models/BCPC/BCPC172711/BCPC172711S.step) |
 | [BCPC212110](models/BCPC/BCPC212110/) | 210 × 210 × 100 | Light gray | [BCPC212110S](models/BCPC/BCPC212110/BCPC212110S.step) |
+| [BCPC212113](models/BCPC/BCPC212113/) | 210 × 210 × 130 | Light gray | [BCPC212113S](models/BCPC/BCPC212113/BCPC212113S.step) |
 | [BCPC304015](models/BCPC/BCPC304015/) | 300 × 400 × 150 | Light gray | [BCPC304015S](models/BCPC/BCPC304015/BCPC304015S.step) |
 <!-- models:end -->
 
