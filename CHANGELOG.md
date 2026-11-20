@@ -31,6 +31,7 @@ Each line is a model and its revision in manifest.json. / 各行は型番と man
 - BCPC212110 r1: added
 - BCPC212113 r1: added
 - BCPC304015 r1: added
+- BCPK091207 r1: added
 
 ## 2026-11-19
 
