@@ -86,6 +86,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCPC162113](models/BCPC/BCPC162113/) | 160 × 210 × 130 | Light gray | [BCPC162113S](models/BCPC/BCPC162113/BCPC162113S.step) |
 | [BCPC172711](models/BCPC/BCPC172711/) | 170 × 270 × 110.5 | Light gray | [BCPC172711S](models/BCPC/BCPC172711/BCPC172711S.step) |
 | [BCPC192810](models/BCPC/BCPC192810/) | 190 × 280 × 100.5 | Light gray | [BCPC192810S](models/BCPC/BCPC192810/BCPC192810S.step) |
+| [BCPC192814](models/BCPC/BCPC192814/) | 190 × 280 × 141 | Light gray | [BCPC192814S](models/BCPC/BCPC192814/BCPC192814S.step) |
 | [BCPC212110](models/BCPC/BCPC212110/) | 210 × 210 × 100 | Light gray | [BCPC212110S](models/BCPC/BCPC212110/BCPC212110S.step) |
 | [BCPC212113](models/BCPC/BCPC212113/) | 210 × 210 × 130 | Light gray | [BCPC212113S](models/BCPC/BCPC212113/BCPC212113S.step) |
 | [BCPC303015](models/BCPC/BCPC303015/) | 300 × 300 × 151 | Light gray | [BCPC303015S](models/BCPC/BCPC303015/BCPC303015S.step) |
