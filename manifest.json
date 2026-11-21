@@ -11846,6 +11846,96 @@
           "sha256": "7f41b75565e5af61a0e69e9f2cb99117f4c2b89226d9fff9adbe156a14398c0b"
         }
       ]
+    },
+    "SPCP182510": {
+      "revision": "r1",
+      "series": "SPCP",
+      "source": {
+        "commit": "c84a683d3197d7f5b8da7188ea8d1f3ecf6083a4-dirty",
+        "verified": "2026-11-21",
+        "drawing_date": "2025-11-19"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 175.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 250.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 100.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -125.0,
+          -87.5,
+          -1.0
+        ],
+        "max": [
+          125.0,
+          87.5,
+          99.0
+        ]
+      },
+      "hinge": null,
+      "variants": [
+        {
+          "model": "SPCP182510G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "SPCP182510G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP182510G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP182510G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP182510/SPCP182510G.step",
+          "sha256": "cccb37da99cbe9e04b7d9bb05ad0142f8946bb94939fc9f3989fd13c15e6e026"
+        },
+        {
+          "model": "SPCP182510T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "SPCP182510T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP182510T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "SPCP182510T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP182510/SPCP182510T.step",
+          "sha256": "5d6dfdcbb037caaa976e17454acd83b0b7e15e9933339d4ac7fa025f8ce2fed6"
+        }
+      ]
     }
   }
 }
