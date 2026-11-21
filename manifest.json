@@ -7067,6 +7067,70 @@
         }
       ]
     },
+    "BCAS101007": {
+      "revision": "r1",
+      "series": "BCAS",
+      "source": {
+        "commit": "08f279018d6ca762db054349a9e035e2d6c47f39",
+        "verified": "2026-11-21",
+        "drawing_date": "2025-11-11"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 101.5,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 101.5,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 75.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -50.75,
+          -50.75,
+          -1.0
+        ],
+        "max": [
+          50.75,
+          50.75,
+          75.0
+        ]
+      },
+      "hinge": null,
+      "variants": [
+        {
+          "model": "BCAS101007G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCAS101007G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAS101007G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCAS101007G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCAS/BCAS101007/BCAS101007G.step",
+          "sha256": "12e67939f49fe3fbcd33242402be4c70d41a233de82109c8937cd85fc4100501"
+        }
+      ]
+    },
     "BCAS151507": {
       "revision": "r1",
       "series": "BCAS",
