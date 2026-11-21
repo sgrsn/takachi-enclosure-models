@@ -65,6 +65,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCAR304012](models/BCAR/BCAR304012/) | 300 × 400 × 120 | White gray<br>Clear cover | [BCAR304012G](models/BCAR/BCAR304012/BCAR304012G.step)<br>[BCAR304012T](models/BCAR/BCAR304012/BCAR304012T.step) |
 | [BCAR304015](models/BCAR/BCAR304015/) | 300 × 400 × 150 | White gray<br>Clear cover | [BCAR304015G](models/BCAR/BCAR304015/BCAR304015G.step)<br>[BCAR304015T](models/BCAR/BCAR304015/BCAR304015T.step) |
 | [BCAR304018](models/BCAR/BCAR304018/) | 300 × 400 × 181 | White gray<br>Clear cover | [BCAR304018G](models/BCAR/BCAR304018/BCAR304018G.step)<br>[BCAR304018T](models/BCAR/BCAR304018/BCAR304018T.step) |
+| [BCAS151507](models/BCAS/BCAS151507/) | 150 × 150 × 75 | White gray | [BCAS151507G](models/BCAS/BCAS151507/BCAS151507G.step) |
 | [BCPC091207](models/BCPC/BCPC091207/) | 90 × 120 × 70 | Light gray | [BCPC091207S](models/BCPC/BCPC091207/BCPC091207S.step) |
 | [BCPC091208](models/BCPC/BCPC091208/) | 90 × 120 × 85 | Light gray | [BCPC091208S](models/BCPC/BCPC091208/BCPC091208S.step) |
 | [BCPC101507](models/BCPC/BCPC101507/) | 100 × 150 × 70 | Light gray | [BCPC101507S](models/BCPC/BCPC101507/BCPC101507S.step) |
