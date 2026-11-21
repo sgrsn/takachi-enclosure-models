@@ -31,6 +31,7 @@ Each line is a model and its revision in manifest.json. / 各行は型番と man
 - BCPK304015 r1: added
 - BCPK304018 r1: added
 - SPCP131308 r1: added
+- SPCP131310 r1: added
 - SPCP131808 r1: added
 - SPCP131810 r1: added
 - SPCP182510 r1: added

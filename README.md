@@ -105,6 +105,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCPK304015](models/BCPK/BCPK304015/) | 300 × 400 × 150 | Light gray<br>Clear cover | [BCPK304015S](models/BCPK/BCPK304015/BCPK304015S.step)<br>[BCPK304015T](models/BCPK/BCPK304015/BCPK304015T.step) |
 | [BCPK304018](models/BCPK/BCPK304018/) | 300 × 400 × 181 | Light gray<br>Clear cover | [BCPK304018S](models/BCPK/BCPK304018/BCPK304018S.step)<br>[BCPK304018T](models/BCPK/BCPK304018/BCPK304018T.step) |
 | [SPCP131308](models/SPCP/SPCP131308/) | 125 × 125 × 75 | White gray<br>Clear cover | [SPCP131308G](models/SPCP/SPCP131308/SPCP131308G.step)<br>[SPCP131308T](models/SPCP/SPCP131308/SPCP131308T.step) |
+| [SPCP131310](models/SPCP/SPCP131310/) | 125 × 125 × 100 | White gray<br>Clear cover | [SPCP131310G](models/SPCP/SPCP131310/SPCP131310G.step)<br>[SPCP131310T](models/SPCP/SPCP131310/SPCP131310T.step) |
 | [SPCP131808](models/SPCP/SPCP131808/) | 125 × 175 × 75 | White gray<br>Clear cover | [SPCP131808G](models/SPCP/SPCP131808/SPCP131808G.step)<br>[SPCP131808T](models/SPCP/SPCP131808/SPCP131808T.step) |
 | [SPCP131810](models/SPCP/SPCP131810/) | 125 × 175 × 100 | White gray<br>Clear cover | [SPCP131810G](models/SPCP/SPCP131810/SPCP131810G.step)<br>[SPCP131810T](models/SPCP/SPCP131810/SPCP131810T.step) |
 | [SPCP182510](models/SPCP/SPCP182510/) | 175 × 250 × 100 | White gray<br>Clear cover | [SPCP182510G](models/SPCP/SPCP182510/SPCP182510G.step)<br>[SPCP182510T](models/SPCP/SPCP182510/SPCP182510T.step) |
