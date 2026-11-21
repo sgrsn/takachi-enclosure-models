@@ -10667,6 +10667,148 @@
         }
       ]
     },
+    "BCPK131810": {
+      "revision": "r1",
+      "series": "BCPK",
+      "source": {
+        "commit": "cac6d0c3fc977be4e9da51877ff2c80d6d861004-dirty",
+        "verified": "2026-11-21",
+        "drawing_date": "2025-12-02"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 135.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 185.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 100.5,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -96.679,
+          -78.185,
+          -2.0
+        ],
+        "max": [
+          96.679,
+          76.983,
+          100.5
+        ]
+      },
+      "hinge": {
+        "point_mm": [
+          0.0,
+          72.484,
+          80.5
+        ],
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_open_deg": 236.0
+      },
+      "variants": [
+        {
+          "model": "BCPK131810S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCPK131810S_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810S_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810S_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810S_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810S_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810S_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810S_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCPK/BCPK131810/BCPK131810S.step",
+          "sha256": "6972d560834d884fa503638a8d4ae90b81a5dc6fc0e65a9ecd326452434cbc3f"
+        },
+        {
+          "model": "BCPK131810T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "BCPK131810T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "BCPK131810T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810T_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810T_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810T_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPK131810T_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCPK/BCPK131810/BCPK131810T.step",
+          "sha256": "acbfce79b066736d829aee8e08d00aeb88d241a9290119a83d44303d6d2d6149"
+        }
+      ]
+    },
     "BCPK212110": {
       "revision": "r1",
       "series": "BCPK",
