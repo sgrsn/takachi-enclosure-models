@@ -62,6 +62,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCAR212110](models/BCAR/BCAR212110/) | 210 × 210 × 100 | White gray<br>Clear cover | [BCAR212110G](models/BCAR/BCAR212110/BCAR212110G.step)<br>[BCAR212110T](models/BCAR/BCAR212110/BCAR212110T.step) |
 | [BCAR212113](models/BCAR/BCAR212113/) | 210 × 210 × 130 | White gray<br>Clear cover | [BCAR212113G](models/BCAR/BCAR212113/BCAR212113G.step)<br>[BCAR212113T](models/BCAR/BCAR212113/BCAR212113T.step) |
 | [BCAR303015](models/BCAR/BCAR303015/) | 300 × 300 × 151 | White gray<br>Clear cover | [BCAR303015G](models/BCAR/BCAR303015/BCAR303015G.step)<br>[BCAR303015T](models/BCAR/BCAR303015/BCAR303015T.step) |
+| [BCAR303018](models/BCAR/BCAR303018/) | 300 × 300 × 181 | White gray<br>Clear cover | [BCAR303018G](models/BCAR/BCAR303018/BCAR303018G.step)<br>[BCAR303018T](models/BCAR/BCAR303018/BCAR303018T.step) |
 | [BCAR304012](models/BCAR/BCAR304012/) | 300 × 400 × 120 | White gray<br>Clear cover | [BCAR304012G](models/BCAR/BCAR304012/BCAR304012G.step)<br>[BCAR304012T](models/BCAR/BCAR304012/BCAR304012T.step) |
 | [BCAR304015](models/BCAR/BCAR304015/) | 300 × 400 × 150 | White gray<br>Clear cover | [BCAR304015G](models/BCAR/BCAR304015/BCAR304015G.step)<br>[BCAR304015T](models/BCAR/BCAR304015/BCAR304015T.step) |
 | [BCAR304018](models/BCAR/BCAR304018/) | 300 × 400 × 181 | White gray<br>Clear cover | [BCAR304018G](models/BCAR/BCAR304018/BCAR304018G.step)<br>[BCAR304018T](models/BCAR/BCAR304018/BCAR304018T.step) |
