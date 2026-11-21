@@ -93,6 +93,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCPK131808](models/BCPK/BCPK131808/) | 135 × 185 × 85.5 | Light gray<br>Clear cover | [BCPK131808S](models/BCPK/BCPK131808/BCPK131808S.step)<br>[BCPK131808T](models/BCPK/BCPK131808/BCPK131808T.step) |
 | [BCPK212110](models/BCPK/BCPK212110/) | 210 × 210 × 100 | Light gray<br>Clear cover | [BCPK212110S](models/BCPK/BCPK212110/BCPK212110S.step)<br>[BCPK212110T](models/BCPK/BCPK212110/BCPK212110T.step) |
 | [BCPK304015](models/BCPK/BCPK304015/) | 300 × 400 × 150 | Light gray<br>Clear cover | [BCPK304015S](models/BCPK/BCPK304015/BCPK304015S.step)<br>[BCPK304015T](models/BCPK/BCPK304015/BCPK304015T.step) |
+| [SPCP131808](models/SPCP/SPCP131808/) | 125 × 175 × 75 | White gray<br>Clear cover | [SPCP131808G](models/SPCP/SPCP131808/SPCP131808G.step)<br>[SPCP131808T](models/SPCP/SPCP131808/SPCP131808T.step) |
 <!-- models:end -->
 
 ## Feedback

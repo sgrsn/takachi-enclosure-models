@@ -9954,6 +9954,96 @@
           "sha256": "17ae3476f0e91534d60392fec590b60fbeaa51be183814e27d8f08c99e885161"
         }
       ]
+    },
+    "SPCP131808": {
+      "revision": "r1",
+      "series": "SPCP",
+      "source": {
+        "commit": "26acb173aa2fab4b3e88d34b8e2e7bea23105899",
+        "verified": "2026-11-21",
+        "drawing_date": "2025-11-19"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 125.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 175.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 75.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -87.5,
+          -62.5,
+          -1.0
+        ],
+        "max": [
+          87.5,
+          62.5,
+          74.0
+        ]
+      },
+      "hinge": null,
+      "variants": [
+        {
+          "model": "SPCP131808G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "SPCP131808G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP131808G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP131808G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP131808/SPCP131808G.step",
+          "sha256": "6925841701a2cbc451ba1629a8d7cbe0e163639236cbcf57275e1adb14b10a74"
+        },
+        {
+          "model": "SPCP131808T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "SPCP131808T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP131808T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "SPCP131808T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP131808/SPCP131808T.step",
+          "sha256": "4d04f750d512b7afea33dfcbc6508ae7d837e7af09a0c7e0671fffd65c02d489"
+        }
+      ]
     }
   }
 }
