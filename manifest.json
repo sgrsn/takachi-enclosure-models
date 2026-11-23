@@ -9117,6 +9117,102 @@
         }
       ]
     },
+    "BCPC162110": {
+      "revision": "r1",
+      "series": "BCPC",
+      "source": {
+        "commit": "565a68be4f0931919cdcbe5db2275f34f150b0cd",
+        "verified": "2026-11-23",
+        "drawing_date": "2025-12-02"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 160.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 210.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 100.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -109.2,
+          -89.991,
+          -1.0
+        ],
+        "max": [
+          109.2,
+          89.5,
+          100.0
+        ]
+      },
+      "hinge": {
+        "point_mm": [
+          0.0,
+          85.0,
+          75.0
+        ],
+        "axis": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "max_open_deg": 235.44
+      },
+      "variants": [
+        {
+          "model": "BCPC162110S",
+          "color": {
+            "en": "Light gray",
+            "ja": "ライトグレー"
+          },
+          "parts": [
+            {
+              "name": "BCPC162110S_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC162110S_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC162110S_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC162110S_Latch_1",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC162110S_Latch_2",
+              "color": "#B4B4B4",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC162110S_InsertNutM4_1",
+              "color": "#C8A040",
+              "alpha": 1.0
+            },
+            {
+              "name": "BCPC162110S_InsertNutM4_2",
+              "color": "#C8A040",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/BCPC/BCPC162110/BCPC162110S.step",
+          "sha256": "9ce20e1e61714aabba7a69683ea29684404c371cfde0b6a2a69ef19300ef0e27"
+        }
+      ]
+    },
     "BCPC162113": {
       "revision": "r1",
       "series": "BCPC",
