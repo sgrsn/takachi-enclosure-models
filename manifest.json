@@ -11577,6 +11577,96 @@
         }
       ]
     },
+    "SPCP131306": {
+      "revision": "r1",
+      "series": "SPCP",
+      "source": {
+        "commit": "962ac3eba3b6869d0db490289a102bd878011b6b",
+        "verified": "2026-11-23",
+        "drawing_date": "2025-11-19"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 125.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 125.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 60.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -62.5,
+          -62.5,
+          -1.0
+        ],
+        "max": [
+          62.5,
+          62.5,
+          59.0
+        ]
+      },
+      "hinge": null,
+      "variants": [
+        {
+          "model": "SPCP131306G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "SPCP131306G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP131306G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP131306G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP131306/SPCP131306G.step",
+          "sha256": "c9628ca5071e978c61fb55ff79ad14a1b69d41e24124be95cc85c0d2671b2c71"
+        },
+        {
+          "model": "SPCP131306T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "SPCP131306T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP131306T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "SPCP131306T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP131306/SPCP131306T.step",
+          "sha256": "82d4756951298c99f2e61856283e82e99c1a2a7be37b7534a85f5f330051ada7"
+        }
+      ]
+    },
     "SPCP131308": {
       "revision": "r1",
       "series": "SPCP",
@@ -12024,6 +12114,96 @@
           ],
           "step": "models/SPCP/SPCP181808/SPCP181808T.step",
           "sha256": "da2f38eda6a183289e7dfc8c26c303ec316d048e413327616fd0af121743e07b"
+        }
+      ]
+    },
+    "SPCP182508": {
+      "revision": "r1",
+      "series": "SPCP",
+      "source": {
+        "commit": "962ac3eba3b6869d0db490289a102bd878011b6b",
+        "verified": "2026-11-23",
+        "drawing_date": "2025-11-19"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 175.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 250.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 75.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -125.0,
+          -87.5,
+          -1.0
+        ],
+        "max": [
+          125.0,
+          87.5,
+          74.0
+        ]
+      },
+      "hinge": null,
+      "variants": [
+        {
+          "model": "SPCP182508G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "SPCP182508G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP182508G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP182508G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP182508/SPCP182508G.step",
+          "sha256": "b988ed42f81edf17fe602994d301bbdbd993aa18085714496ce2477d3c554715"
+        },
+        {
+          "model": "SPCP182508T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "SPCP182508T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP182508T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "SPCP182508T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP182508/SPCP182508T.step",
+          "sha256": "99a087ba94894c01050cf8791bf6fa8f3cc3053d07b83b6253422c48f1299b67"
         }
       ]
     },

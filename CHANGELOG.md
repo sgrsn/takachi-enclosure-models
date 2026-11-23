@@ -4,7 +4,9 @@ Each line is a model and its revision in manifest.json. / 各行は型番と man
 
 ## 2026-11-23
 
+- SPCP131306 r1: added
 - SPCP181808 r1: added
+- SPCP182508 r1: added
 
 ## 2026-11-21
 
