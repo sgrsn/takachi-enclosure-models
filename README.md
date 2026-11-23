@@ -108,6 +108,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [SPCP131310](models/SPCP/SPCP131310/) | 125 × 125 × 100 | White gray<br>Clear cover | [SPCP131310G](models/SPCP/SPCP131310/SPCP131310G.step)<br>[SPCP131310T](models/SPCP/SPCP131310/SPCP131310T.step) |
 | [SPCP131808](models/SPCP/SPCP131808/) | 125 × 175 × 75 | White gray<br>Clear cover | [SPCP131808G](models/SPCP/SPCP131808/SPCP131808G.step)<br>[SPCP131808T](models/SPCP/SPCP131808/SPCP131808T.step) |
 | [SPCP131810](models/SPCP/SPCP131810/) | 125 × 175 × 100 | White gray<br>Clear cover | [SPCP131810G](models/SPCP/SPCP131810/SPCP131810G.step)<br>[SPCP131810T](models/SPCP/SPCP131810/SPCP131810T.step) |
+| [SPCP181808](models/SPCP/SPCP181808/) | 175 × 175 × 75 | White gray<br>Clear cover | [SPCP181808G](models/SPCP/SPCP181808/SPCP181808G.step)<br>[SPCP181808T](models/SPCP/SPCP181808/SPCP181808T.step) |
 | [SPCP182510](models/SPCP/SPCP182510/) | 175 × 250 × 100 | White gray<br>Clear cover | [SPCP182510G](models/SPCP/SPCP182510/SPCP182510G.step)<br>[SPCP182510T](models/SPCP/SPCP182510/SPCP182510T.step) |
 <!-- models:end -->
 
