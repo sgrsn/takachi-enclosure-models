@@ -2459,7 +2459,7 @@
       "revision": "r1",
       "series": "BCAP",
       "source": {
-        "commit": "4b1853609bdc61ba25c19484c228cd6a3542368e-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -4583,7 +4583,7 @@
       "revision": "r1",
       "series": "BCAR",
       "source": {
-        "commit": "3b0a112102fa86767a098e3f7cd9454fcbdef5f8-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -4735,7 +4735,7 @@
       "revision": "r1",
       "series": "BCAR",
       "source": {
-        "commit": "3b0a112102fa86767a098e3f7cd9454fcbdef5f8-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -4887,7 +4887,7 @@
       "revision": "r1",
       "series": "BCAR",
       "source": {
-        "commit": "3b0a112102fa86767a098e3f7cd9454fcbdef5f8-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -5039,7 +5039,7 @@
       "revision": "r1",
       "series": "BCAR",
       "source": {
-        "commit": "3b0a112102fa86767a098e3f7cd9454fcbdef5f8-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -5191,7 +5191,7 @@
       "revision": "r1",
       "series": "BCAR",
       "source": {
-        "commit": "3e9e1d78512e86cb08131a838d7a90abc5533aec-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -5647,7 +5647,7 @@
       "revision": "r1",
       "series": "BCAR",
       "source": {
-        "commit": "3e9e1d78512e86cb08131a838d7a90abc5533aec-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -5799,7 +5799,7 @@
       "revision": "r1",
       "series": "BCAR",
       "source": {
-        "commit": "e70d0867335e89975e6c69b6dd72ca2f6cf683f3-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -6011,7 +6011,7 @@
       "revision": "r1",
       "series": "BCAR",
       "source": {
-        "commit": "ce64d1cf4993ed84a5a491072209a75e82f1adc7-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -7819,7 +7819,7 @@
       "revision": "r1",
       "series": "BCAS",
       "source": {
-        "commit": "fe8c14b48991909756a60258dc0b4ae7600859fa-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2026-02-16"
       },
@@ -9535,7 +9535,7 @@
       "revision": "r1",
       "series": "BCPC",
       "source": {
-        "commit": "0db246e78df86199aaf8dd463ca6b8b381075c39-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -10635,7 +10635,7 @@
       "revision": "r1",
       "series": "BCPK",
       "source": {
-        "commit": "4ce0510a606d42c85b5d59e27eeba9e63e0ab1f4-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -10909,7 +10909,7 @@
       "revision": "r1",
       "series": "BCPK",
       "source": {
-        "commit": "1478b57d56843ea9be551d73b8edcf9d64ed4bfc-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-20",
         "drawing_date": "2025-12-02"
       },
@@ -11051,7 +11051,7 @@
       "revision": "r1",
       "series": "BCPK",
       "source": {
-        "commit": "cac6d0c3fc977be4e9da51877ff2c80d6d861004-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -11961,7 +11961,7 @@
       "revision": "r1",
       "series": "BCPK",
       "source": {
-        "commit": "e58883df634c880348ef4c6bf47917b369e5026b-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-12-02"
       },
@@ -12433,7 +12433,7 @@
       "revision": "r1",
       "series": "SPCP",
       "source": {
-        "commit": "8ff52e61c5c3c981b72d4f2ee7659b5fc8a692ea-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-11-19"
       },
@@ -12523,7 +12523,7 @@
       "revision": "r1",
       "series": "SPCP",
       "source": {
-        "commit": "03a7c8fabc92307f14d93fafb594641487f05b36-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-11-19"
       },
@@ -12793,7 +12793,7 @@
       "revision": "r1",
       "series": "SPCP",
       "source": {
-        "commit": "6993ae6b2ad0fc604b87f35392e91412b1eb050f-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-23",
         "drawing_date": "2025-11-19"
       },
@@ -13063,7 +13063,7 @@
       "revision": "r1",
       "series": "SPCP",
       "source": {
-        "commit": "c84a683d3197d7f5b8da7188ea8d1f3ecf6083a4-dirty",
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
         "verified": "2026-11-21",
         "drawing_date": "2025-11-19"
       },
