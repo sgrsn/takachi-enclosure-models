@@ -105,6 +105,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCPK131810](models/BCPK/BCPK131810/) | 135 × 185 × 100.5 | Light gray<br>Clear cover | [BCPK131810S](models/BCPK/BCPK131810/BCPK131810S.step)<br>[BCPK131810T](models/BCPK/BCPK131810/BCPK131810T.step) |
 | [BCPK212110](models/BCPK/BCPK212110/) | 210 × 210 × 100 | Light gray<br>Clear cover | [BCPK212110S](models/BCPK/BCPK212110/BCPK212110S.step)<br>[BCPK212110T](models/BCPK/BCPK212110/BCPK212110T.step) |
 | [BCPK303015](models/BCPK/BCPK303015/) | 300 × 300 × 151 | Light gray<br>Clear cover | [BCPK303015S](models/BCPK/BCPK303015/BCPK303015S.step)<br>[BCPK303015T](models/BCPK/BCPK303015/BCPK303015T.step) |
+| [BCPK303018](models/BCPK/BCPK303018/) | 300 × 300 × 181 | Light gray<br>Clear cover | [BCPK303018S](models/BCPK/BCPK303018/BCPK303018S.step)<br>[BCPK303018T](models/BCPK/BCPK303018/BCPK303018T.step) |
 | [BCPK304012](models/BCPK/BCPK304012/) | 300 × 400 × 120 | Light gray<br>Clear cover | [BCPK304012S](models/BCPK/BCPK304012/BCPK304012S.step)<br>[BCPK304012T](models/BCPK/BCPK304012/BCPK304012T.step) |
 | [BCPK304015](models/BCPK/BCPK304015/) | 300 × 400 × 150 | Light gray<br>Clear cover | [BCPK304015S](models/BCPK/BCPK304015/BCPK304015S.step)<br>[BCPK304015T](models/BCPK/BCPK304015/BCPK304015T.step) |
 | [BCPK304018](models/BCPK/BCPK304018/) | 300 × 400 × 181 | Light gray<br>Clear cover | [BCPK304018S](models/BCPK/BCPK304018/BCPK304018S.step)<br>[BCPK304018T](models/BCPK/BCPK304018/BCPK304018T.step) |
