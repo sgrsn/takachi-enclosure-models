@@ -12249,6 +12249,96 @@
         }
       ]
     },
+    "SPCP081310": {
+      "revision": "r1",
+      "series": "SPCP",
+      "source": {
+        "commit": "cf9927170290c5bdfc87ab7e36e01b66295bd24a",
+        "verified": "2026-11-23",
+        "drawing_date": "2025-11-19"
+      },
+      "catalog_dimensions": {
+        "W": {
+          "mm": 75.0,
+          "axis": "Y"
+        },
+        "D": {
+          "mm": 125.0,
+          "axis": "X"
+        },
+        "H": {
+          "mm": 100.0,
+          "axis": "Z"
+        }
+      },
+      "overall_bbox": {
+        "min": [
+          -62.5,
+          -37.5,
+          -1.0
+        ],
+        "max": [
+          62.5,
+          37.5,
+          99.0
+        ]
+      },
+      "hinge": null,
+      "variants": [
+        {
+          "model": "SPCP081310G",
+          "color": {
+            "en": "White gray",
+            "ja": "ホワイトグレー"
+          },
+          "parts": [
+            {
+              "name": "SPCP081310G_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP081310G_TopCover",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP081310G_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP081310/SPCP081310G.step",
+          "sha256": "1748e7fe7b0a79f3730f94e3b95d49893eb49046dd8dc2e8d971cd56ca4f17d7"
+        },
+        {
+          "model": "SPCP081310T",
+          "color": {
+            "en": "Clear cover",
+            "ja": "透明カバー"
+          },
+          "parts": [
+            {
+              "name": "SPCP081310T_Base",
+              "color": "#D9D9D2",
+              "alpha": 1.0
+            },
+            {
+              "name": "SPCP081310T_TopCover",
+              "color": "#E8F2FA",
+              "alpha": 0.35
+            },
+            {
+              "name": "SPCP081310T_Gasket",
+              "color": "#202020",
+              "alpha": 1.0
+            }
+          ],
+          "step": "models/SPCP/SPCP081310/SPCP081310T.step",
+          "sha256": "f83b2c594a71dd810b5e466d1f65d95113005ff9a46cc95529cd0ef03e3a2c70"
+        }
+      ]
+    },
     "SPCP131306": {
       "revision": "r1",
       "series": "SPCP",

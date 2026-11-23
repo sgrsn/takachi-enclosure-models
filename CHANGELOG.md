@@ -2,6 +2,10 @@
 
 Each line is a model and its revision in manifest.json. / 各行は型番と manifest.json の改訂です。
 
+## 2026-11-24
+
+- SPCP081310 r1: added
+
 ## 2026-11-23
 
 - BCAP162110 r1: added
