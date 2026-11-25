@@ -38,6 +38,7 @@ Hinge axes, opening angles and revisions are in [manifest.json](manifest.json); 
 | [BCAP151512](models/BCAP/BCAP151512/) | 150 × 150 × 120.5 | White gray<br>Clear cover | [BCAP151512G](models/BCAP/BCAP151512/BCAP151512G.step)<br>[BCAP151512T](models/BCAP/BCAP151512/BCAP151512T.step) |
 | [BCAP162110](models/BCAP/BCAP162110/) | 160 × 210 × 100 | White gray<br>Clear cover | [BCAP162110G](models/BCAP/BCAP162110/BCAP162110G.step)<br>[BCAP162110T](models/BCAP/BCAP162110/BCAP162110T.step) |
 | [BCAP162113](models/BCAP/BCAP162113/) | 160 × 210 × 130 | White gray<br>Clear cover | [BCAP162113G](models/BCAP/BCAP162113/BCAP162113G.step)<br>[BCAP162113T](models/BCAP/BCAP162113/BCAP162113T.step) |
+| [BCAP162610](models/BCAP/BCAP162610/) | 160 × 260 × 100 | White gray<br>Clear cover | [BCAP162610G](models/BCAP/BCAP162610/BCAP162610G.step)<br>[BCAP162610T](models/BCAP/BCAP162610/BCAP162610T.step) |
 | [BCAP172711](models/BCAP/BCAP172711/) | 170 × 270 × 110.5 | White gray<br>Clear cover | [BCAP172711G](models/BCAP/BCAP172711/BCAP172711G.step)<br>[BCAP172711T](models/BCAP/BCAP172711/BCAP172711T.step) |
 | [BCAP192810](models/BCAP/BCAP192810/) | 190 × 280 × 100.5 | White gray<br>Clear cover | [BCAP192810G](models/BCAP/BCAP192810/BCAP192810G.step)<br>[BCAP192810T](models/BCAP/BCAP192810/BCAP192810T.step) |
 | [BCAP192814](models/BCAP/BCAP192814/) | 190 × 280 × 141 | White gray<br>Clear cover | [BCAP192814G](models/BCAP/BCAP192814/BCAP192814G.step)<br>[BCAP192814T](models/BCAP/BCAP192814/BCAP192814T.step) |
